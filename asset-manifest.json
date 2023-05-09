@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/booking_form/static/css/main.9465dd82.css",
+    "main.js": "/booking_form/static/js/main.3d8e3f09.js",
+    "static/js/787.a5c69160.chunk.js": "/booking_form/static/js/787.a5c69160.chunk.js",
+    "index.html": "/booking_form/index.html",
+    "main.9465dd82.css.map": "/booking_form/static/css/main.9465dd82.css.map",
+    "main.3d8e3f09.js.map": "/booking_form/static/js/main.3d8e3f09.js.map",
+    "787.a5c69160.chunk.js.map": "/booking_form/static/js/787.a5c69160.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9465dd82.css",
+    "static/js/main.3d8e3f09.js"
+  ]
+}
