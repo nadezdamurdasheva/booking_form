@@ -1,0 +1,42 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    flex-wrap: wrap;
+    margin: 20px auto;
+    max-width: 600px; 
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.buttons_container {
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+}
+.field_container {
+    width: 100%;
+}
+.field_container .ant-form-item-row {
+    display: flex;
+    
+}
+.field_container .ant-form-item-label {
+    flex: 1 0 150px;
+    max-width: 150px;
+}
+.field_container .ant-form-item-control {
+    flex: 1 0 220px;
+}
+.field_container .ant-space .ant-space-item {
+    display: flex;
+}
+.field_container .ant-space .ant-picker {
+    flex: 1 0 450px;
+}
+.field_container .ant-form-item-control-input-content {
+    display: flex;
+}
+.field_container .ant-picker {
+    flex: 1;
+}
+
